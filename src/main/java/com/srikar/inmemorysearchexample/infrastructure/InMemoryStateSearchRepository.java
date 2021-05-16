@@ -1,4 +1,4 @@
-package com.srikar.inmemorysearchexample.infrastructure.rest;
+package com.srikar.inmemorysearchexample.infrastructure;
 
 import com.srikar.inmemorysearchexample.domain.StateSearchRepository;
 import me.xdrop.fuzzywuzzy.FuzzySearch;
